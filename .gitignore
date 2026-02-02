@@ -21,3 +21,7 @@ history.json
 dist/
 build/
 *.spec
+
+# Notes
+SOCIAL_MEDIA.md
+RELEASE_NOTES.md

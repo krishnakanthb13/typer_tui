@@ -4,6 +4,8 @@
 
 A minimal, offline, terminal-based typing test built with Python and [Textual](https://textual.textualize.io/).
 
+![Typer TUI v0.0.4](./assets/typer-tui-v0.0.4.png)
+
 Inspired by [boomtypr](https://github.com/yagnikpt/boomtypr).
 
 ## Features
