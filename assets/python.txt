@@ -1,0 +1,20 @@
+for i in range(10): print(i)
+def hello(name): return f"Hello, {name}!"
+if __name__ == "__main__": main()
+class User: def __init__(self, name): self.name = name
+try: result = risky_operation() except Exception as e: log(e)
+with open("file.txt", "r") as f: data = f.read()
+import os; path = os.path.join("dir", "file.py")
+lambda x: x * 2 if x > 0 else 0
+[item for item in collection if item.active]
+{"key": "value", "count": 42, "active": True}
+async def fetch_data(url): return await client.get(url)
+@decorator def wrapped_function(): pass
+raise ValueError("Invalid input provided")
+assert len(items) > 0, "List cannot be empty"
+from typing import List, Dict, Optional
+result = map(lambda x: x.upper(), strings)
+sorted(users, key=lambda u: u.created_at, reverse=True)
+os.environ.get("API_KEY", "default_key")
+json.dumps({"status": "ok"}, indent=2)
+re.match(r"^[a-zA-Z0-9]+$", username)
